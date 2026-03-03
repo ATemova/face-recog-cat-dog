@@ -7,7 +7,6 @@
 </p>
 
 # 🐱🐶 Face Recognition: Cat vs Dog Classification  
-### Machine Learning & Data Mining Project  
 
 ## 📖 Project Overview
 
